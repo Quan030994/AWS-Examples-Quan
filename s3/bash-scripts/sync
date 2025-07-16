@@ -24,7 +24,7 @@ FILENAME_PREFIX=$2
 OUTPUT_DIR="/tmp/s3-bash-scripts"
 
 # remove folder if it exists
-rm -r $OUTPUT_DIR
+# rm -r $OUTPUT_DIR
 
 # create a folder to store the files
 mkdir -p $OUTPUT_DIR
