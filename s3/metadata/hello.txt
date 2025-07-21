@@ -1,0 +1,1 @@
+Hello MarsechoHello Marsaws s3 mb s3://metadata-example-fun123! > hello.txt!
