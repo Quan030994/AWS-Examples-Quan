@@ -1,0 +1,16 @@
+{
+  "Grants": [
+    {
+      "Grantee": {
+        "DisplayName": "skm_steve_de",
+        "ID": "c3a1dd12fd7c4aeb108f74426b8aadb9d44bdae5d439399d1a94e122fc78d3a2",
+        "Type": "CanonicalUser"
+      },
+      "Permission": "FULL_CONTROL"
+    }
+  ],
+  "Owner": {
+    "DisplayName": "steve_admin",
+    "ID": "23b9696cfe8773de1725209db446db1dc70c10919e77b90020c282712502406a"
+  }
+}
